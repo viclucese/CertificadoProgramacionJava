@@ -1,0 +1,5 @@
+prueba\PruebaManejoPersonas.class
+datos\PersonaDAO.class
+com\mycompany\ejemplojdbc\EjemploJDBC.class
+Dominio\Persona.class
+datos\conexion.class

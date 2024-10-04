@@ -1,0 +1,3 @@
+{tipo:1, nombre:Irene, apellidos:Carrasco Santano, dni:76048517Y, saldo:6000, iban:ES1234567890123456789000, entidades:ABC,comision:5}
+{tipo:0, nombre:Valentin, apellidos:Carrasco Solis, dni:06991663P, saldo:4000, iban:ES9638527410963852741000, tipoInteres:3}
+{tipo:2, nombre:Victor, apellidos:Cerrato Segovia, dni:12345678A, saldo:3000, iban:ES7894561230789456123000, entidades:ES7894561230789456123000, maxDescubierto:100, tipoInteresDesc:4, comisionFija:6}
